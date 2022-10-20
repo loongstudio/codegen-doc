@@ -13,7 +13,7 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:loongstudio/docs.git main:gh-pages
-git push -f git@gitee.com:LoongStudio/docs.git main:gh-pages
+git push -f git@github.com:loongstudio/codegen-doc.git main:gh-pages
+#git push -f git@gitee.com:loongstudio/codegen-doc.git main:gh-pages
 
 cd -
