@@ -6,7 +6,7 @@ module.exports = {
   theme: "vdoing",
   title: "Codegen",
   description: 'Codegen',
-  base: "/codegen/doc/",
+  base: "/codegen-doc/",
   markdown: {
     lineNumbers: true
   },
