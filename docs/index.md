@@ -9,7 +9,7 @@ actionLink: /pages/24112f/
 bannerBg: none
 
 features: # 可选的
-  - title: 简单优雅 `:tea:`
+  - title: 简单优雅
     details: Restful API模板代码支持快速一键生成，可保留和查看历史记录，方便快捷
   - title: 易于使用
     details: 拥有易于使用的模板管理界面和数据源管理界面，方便的树视图搜索功能令工作效率翻倍
