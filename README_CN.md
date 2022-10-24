@@ -23,12 +23,12 @@
   </a>
 </p>
 
-## Introduction
-LoongStudio Codegen is based on the Mybatis an open source Restful API CodeGen.
+## 介绍
+Longstudio Codegen是基于Mybatis的开源Restful API 代码生成器.
 
-## Managed code
+## 管理代码
 > **[Gitee](https://gitee.com/loongstudio/codegen)** | **[Github](https://github.com/loongstudio/codegen)**
 
-## Support
-- Contribution to the code：[codegen](https://github.com/loongstudio/codegen)，You are welcome to submit Issue or Pull Requests
-- Maintaining documentation：[codegen-doc](https://github.com/loongstudio/codegen-doc)，Welcome to participate in translation and revision
+## 支持
+- 贡献代码：代码地址 [codegen](https://github.com/loongstudio/codegen)，欢迎提交 Issue 或者 Pull Requests
+- 维护文档：文档地址 [codegen-doc](https://github.com/loongstudio/codegen-doc)，欢迎参与翻译和修订
