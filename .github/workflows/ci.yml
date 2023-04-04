@@ -21,6 +21,9 @@ jobs:
   repo-sync:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@main
+        with:
+          persist-credentials: false
       - name: Mirror the Github organization repos to Gitee.
         uses: Yikun/hub-mirror-action@master
         with:
@@ -29,5 +32,5 @@ jobs:
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token:  ${{ secrets.GITEE_TOKEN }}
           static_list: "codegen-doc"
-          force_update: true
+          account_type: org
           debug: true
